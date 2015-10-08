@@ -1,0 +1,6 @@
+warc
+mrjob
+boto
+simplejson
+s3cmd
+sudo pip install -e git+https://github.com/commoncrawl/gzipstream.git#egg=gzipstream
